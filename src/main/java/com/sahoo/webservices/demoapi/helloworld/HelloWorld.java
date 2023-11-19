@@ -1,4 +1,4 @@
-package com.sahoo.webservices.demoapi;
+package com.sahoo.webservices.demoapi.helloworld;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
